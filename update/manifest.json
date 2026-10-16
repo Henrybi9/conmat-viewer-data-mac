@@ -1,0 +1,20 @@
+{
+  "app_mac": {
+    "version": "1.2.242",
+    "tag": "mac-v1.2.242",
+    "notes": "Bản chính thức đầu tiên cho máy Mac (chip Apple + Intel), cùng tính năng với bản Windows 1.2.242. / First official release for Mac (Apple chip + Intel), same features as Windows 1.2.242.",
+    "assets": {
+      "arm64": {
+        "name": "VNboards_mac_arm64.zip",
+        "sha256": "6179cacb1289f379eea9a16d9ecfda6fed486b784c1c323d3e9ebb3307c42a33",
+        "size": 112260306
+      },
+      "x86_64": {
+        "name": "VNboards_mac_x86_64.zip",
+        "sha256": "79d6e4a8bc3307d65130bdb68c7ca154e522726890c6c2e0c3be3dba83a9527b",
+        "size": 144261422
+      }
+    }
+  },
+  "dang_luc": "2026-10-16 22:18:54 +1100"
+}
