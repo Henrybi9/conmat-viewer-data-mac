@@ -1,20 +1,20 @@
 {
   "app_mac": {
-    "version": "1.2.250",
-    "tag": "mac-v1.2.250",
-    "notes": "Ô tìm linh kiện / net tìm được test point (có vòng đỏ đánh dấu, báo ngay khi không thấy); logo VNboards; sửa lỗi nút Liên hệ và câu báo lỗi; tự đăng xuất sau 30 phút không dùng. / Search finds test points (red marker, instant not-found notice); VNboards logo; fixes for the Contact button and error messages; automatic sign-out after 30 minutes of inactivity.",
+    "version": "1.2.256",
+    "tag": "mac-v1.2.256",
+    "notes": "",
     "assets": {
       "arm64": {
         "name": "VNboards_mac_arm64.zip",
-        "sha256": "730ecceedbe98f4127700ffe952c46fef3be96f5d5d4f60b93f3d31a13c66846",
-        "size": 112268354
+        "sha256": "b2b8c46b4cda5afcea4aed5fea01b516ed394f8de99db42fbab04687e683a767",
+        "size": 112388912
       },
       "x86_64": {
         "name": "VNboards_mac_x86_64.zip",
-        "sha256": "d052526eb894eedefe63068bc56ddcec46756a9c1c6d027806b3c71e9d0fa32b",
-        "size": 144269108
+        "sha256": "dfa8563531e7e9ff70230e60e699a000a41bbdbd521b479a263f9e28d1641f73",
+        "size": 144389362
       }
     }
   },
-  "dang_luc": "2026-10-17 14:49:13 +1100"
+  "dang_luc": "2026-10-21 16:39:40 +1100"
 }
