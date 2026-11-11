@@ -1,20 +1,20 @@
 {
   "app_mac": {
-    "version": "1.2.296",
-    "tag": "mac-v1.2.296",
+    "version": "1.2.302",
+    "tag": "mac-v1.2.302",
     "notes": "",
     "assets": {
       "arm64": {
         "name": "VNboards_mac_arm64.zip",
-        "sha256": "3fd11cf2acb477abcc88bfa90ea2cb4ce1a184bb0fd9089e2f88b8714125b937",
-        "size": 114536077
+        "sha256": "3731fd29e6635a6f699c0470fddc05caf0092697a0b4961445782bf0109560e4",
+        "size": 115355701
       },
       "x86_64": {
         "name": "VNboards_mac_x86_64.zip",
-        "sha256": "4f6a9794f694d95b42be16cfba3a10deed6807feb1464ac87f182899000c63d8",
-        "size": 146565229
+        "sha256": "f85962b1f19d421c10f6f4a94566d6a117a8d8e6306b0cfaab6e01319c7b5b5b",
+        "size": 147383349
       }
     }
   },
-  "dang_luc": "2026-11-08 16:50:35 +1100"
+  "dang_luc": "2026-11-11 14:42:17 +1100"
 }
